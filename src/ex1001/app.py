@@ -20,3 +20,14 @@ def main() -> None:
 
     # page101.py 랭그래프
     from . import page101
+
+
+    
+    
+    
+
+
+
+
+    
+    
