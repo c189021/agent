@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "grandalf>=0.8",
     "langchain-openai>=1.6.7",
     "langgraph>=1.2.12",
     "pandas>=3.0.6",
